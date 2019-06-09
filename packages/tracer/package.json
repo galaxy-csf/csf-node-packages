@@ -1,10 +1,10 @@
 {
-  "name": "@blockchaintech/tracer",
-  "version": "1.1.4",
+  "name": "csf-tracer",
+  "version": "1.0.0",
   "description": "Logging system for Blockchaintech",
   "main": "dist/tracer.js",
-  "author": "blockchain tech",
-  "license": "ISC",
+  "author": "Shu Hui",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/blockchaintech-au/bct-node-packages/tree/master/packages/tracer"
