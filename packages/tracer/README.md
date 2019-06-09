@@ -1,4 +1,4 @@
-# The logging system for Blockchaintech
+# The logging system for GalaxyCrowd Fund
 
 ## Log Level  
 
@@ -22,7 +22,7 @@ tracer.<log level>(message, {Object});
 Example
 
 ```js
-import tracer from '@blockchaintech/tracer'
+import tracer from 'csf-tracer'
 
 tracer.info('info message', { info: 'some information' });
 ```

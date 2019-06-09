@@ -1,4 +1,4 @@
-# The Http Client for Blockchaintech
+# The Http Client for GalaxyCrowd Fund
 
 ## Feature
 
@@ -10,7 +10,7 @@
 ## How to use
 
 ```js
-import symm from '@blockchaintech/symmetra';
+import symm from 'csf-symmetra';
 
 try {
   const responseJson = await symm.post('/user', {
@@ -26,7 +26,7 @@ try {
 OR
 
 ```js
-import symm from '@blockchaintech/symmetra';
+import symm from 'csf-symmetra';
 
 symm.post('/user', {
     firstName: 'Fred',

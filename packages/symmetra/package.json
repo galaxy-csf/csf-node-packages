@@ -1,13 +1,13 @@
 {
-  "name": "@blockchaintech/symmetra",
-  "version": "1.1.5",
-  "description": "HTTP client for Blockchaintech",
+  "name": "csf-symmetra",
+  "version": "1.0.0",
+  "description": "HTTP client for GalaxyCrowd Fund",
   "main": "dist/symmetra.js",
-  "author": "blockchain tech",
-  "license": "ISC",
+  "author": "Shu Hui",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/blockchaintech-au/bct-node-packages/tree/master/packages/symmetra"
+    "url": "https://github.com/galaxy-csf/csf-node-packages/tree/master/packages/symmetra"
   },
   "scripts": {
     "build:dependency": "npm i babel-cli babel-core babel-preset-env",
@@ -18,7 +18,7 @@
     "eslint": "eslint test src"
   },
   "dependencies": {
-    "@blockchaintech/tracer": "^1.1.3",
+    "csf-tracer": "^1.0.0",
     "axios": "^0.18.0",
     "lodash": "^4.17.11"
   },

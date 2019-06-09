@@ -1,4 +1,4 @@
-import tracer from '@blockchaintech/tracer';
+import tracer from 'csf-tracer';
 import {
   requestLogFormatter,
   responseLogFormatter,
